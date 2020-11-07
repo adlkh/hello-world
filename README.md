@@ -1,5 +1,9 @@
 # hello-world
 Probando Github: siguiendo instrucciones de:
 https://guides.github.com/activities/hello-world/
-Aprendido / Recordado:
+Aprendido / Recordando:
   El repositorio se crea desde la ventana de Git, clic en +
+  
+  ahora estoy editando en la rama.
+  Comprobado. Esto no aparece en la rama principal.
+  
